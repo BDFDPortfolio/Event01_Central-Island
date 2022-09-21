@@ -1,4 +1,4 @@
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a> Central Island Event Activity
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a> Central Island Outdoor Activity
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
 ![ViewCount](https://views.whatilearened.today/views/github/BDFDPortfolio/EventDemo-01.svg?cache=remove)
@@ -14,7 +14,7 @@
 
 About This project and the reference link in this repo are for anyone who is interested in working to enter developer world to produce high quality, working style! Check out follow reference link if you think it is interested.
 
-**Project Link:** <a href="https://bdfdportfolio.tk/EventDemo-01_Central-Island/" target="_blank">Central Island Event Activity Demo Page</a>
+**Project Link:** <a href="https://bdfdportfolio.tk/EventDemo-01_Central-Island/" target="_blank">Central Island Event Outdoor Activity</a>
 
 ## Project Details
 
@@ -36,7 +36,7 @@ Description: Here you can add more detail information about this project and des
 
 **Libraries:** HTML, CSS, and JavaScript
 
-**Projects:** ABC Project Name
+**Projects:** Central Island Potluck
 
 **Reference:**  
 Demo: <a href="https://bdfdportfolio.tk/EventDemo-01_Central-Island/" target="_blank">Demo Website Link</a>  
