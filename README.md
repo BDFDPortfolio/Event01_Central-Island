@@ -14,7 +14,7 @@
 
 About This project and the reference link in this repo are for anyone who is interested in working to enter developer world to produce high quality, working style! Check out follow reference link if you think it is interested.
 
-**Project Link:** <a href="https://bdfdportfolio.tk/EventDemo-01/" target="_blank">Central Island Event Activity Demo Page</a>
+**Project Link:** <a href="https://bdfdportfolio.tk/EventDemo-01_Central-Island/" target="_blank">Central Island Event Activity Demo Page</a>
 
 ## Project Details
 
@@ -39,7 +39,7 @@ Description: Here you can add more detail information about this project and des
 **Projects:** ABC Project Name
 
 **Reference:**  
-Demo: <a href="https://bdfdportfolio.tk/EventDemo-01/" target="_blank">Demo Website Link</a>  
+Demo: <a href="https://bdfdportfolio.tk/EventDemo-01_Central-Island/" target="_blank">Demo Website Link</a>  
 Reference:
 
 - <a href="https://github.com/BDFDPortfolio/EventDemo-01" target="_blank">Orginal Data Source Link</a>
