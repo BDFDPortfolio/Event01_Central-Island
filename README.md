@@ -1,45 +1,28 @@
-<!--
- * @Author: BDFD
- * @Date: 2022-01-12 22:38:38
- * @LastEditTime: 2022-02-23 12:24:43
- * @LastEditors: BDFD
- * @Description:
- * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
--->
-
-Descritpion Template
-This is Project Porfolio
-
-Common Tag: Person Website, Portfolio Website, Personal Project Porfolio, Demo App, Demonstration App, Showcase Website
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a> Central Island Event Activity
 
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
+![ViewCount](https://views.whatilearened.today/views/github/BDFDPortfolio/EventDemo-01.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFDPortfolio/EventDemo-01?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFDPortfolio/EventDemo-01?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Project-NAME{Personal Portfolio})[![View My Profile]
-
-## About This Portfolio/Project Details
+## About This EventDemo-01 Details
 
 About This project and the reference link in this repo are for anyone who is interested in working to enter developer world to produce high quality, working style! Check out follow reference link if you think it is interested.
 
-**Project Link:** [Project-NAME](https://www.project-name.com/project-link)
+**Project Link:** [Central Island Event Activity Demo Page](https://bdfdportfolio.tk/EventDemo-01/)
 
 ## Project Details
 
 The Project Page enlisted as follows:
 
-- [x] **P1-**
-- [x] **P2-**
-- [x] **P3-**
+- [x] **P1-Photo Waterfall Strem**
+<!-- - [x] **P2-**
+- [x] **P3-** -->
 
 ## Project Description:
 
-<img height="27" src="https://img.shields.io/badge/test 1 -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 2 -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 3-Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Javascript -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br/>
 Description: Here you can add more detail information about this project and describe it in the documentation for more details.
 
@@ -49,14 +32,14 @@ Description: Here you can add more detail information about this project and des
 
 **Libraries:** HTML, CSS, and JavaScript
 
-**Projects:** ABC Project Name  
+**Projects:** ABC Project Name
 
 **Reference:**  
-Demo: <a href="Youtube Link">Demo Website Link</a>  
-Reference:  
+Demo: <a href="https://bdfdportfolio.tk/EventDemo-01/">Demo Website Link</a>  
+Reference:
 
-- <a href="https://www.kaggle.com/datasets/smokingkrils/avacado-price-prediction?select=Avocado.csv">Orginal Data Source Link</a>
-- <a href="https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9">Orginal Video Source Link</a>
+- <a href="https://github.com/BDFDPortfolio/EventDemo-01">Orginal Data Source Link</a>
+
   <br>
 
 <div align="center">
