@@ -26,7 +26,7 @@ The Project Page enlisted as follows:
 
 ## Project Description:
 
-<img height="27" src="https://img.shields.io/badge/Javascript -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="27" src="https://img.shields.io/badge/Level 1 - Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br/>
 Description: Here you can add more detail information about this project and describe it in the documentation for more details.
 
